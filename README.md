@@ -2,3 +2,4 @@
 
 Zmiana na branchu test
 Testowanie zmian
+Dalsze zmiany
